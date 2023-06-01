@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paharinni" alt="paharinni" /></a> </p>
 
-- 🌱 I’m currently learning **.NET, ASP.NET, React**
+- I’m currently learning **.NET, ASP.NET, React**
 
-- 📫 How to reach me: **pakharenkobusiness@gmail.com**
+- How to reach me: **pakharenkobusiness@gmail.com**
 
-- ⚡ Fun fact: **One pizza a week improves coding technique**
+- Fun fact: **One pizza a week improves coding technique**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
