@@ -1,13 +1,11 @@
 <h1 align="center">Hello there 👋, I'm Serhii 🙂</h1>
-<h3 align="center">Full-Stack .NET developer from Ukraine</h3>
+<h3 align="center">Full-Stack .NET Developer from Ukraine</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paharinni" alt="paharinni" /></a> </p>
 
 - I’m currently learning **.NET, ASP.NET, React**
 
 - How to reach me: **pakharenkobusiness@gmail.com**
-
-- Fun fact: **One pizza a week improves coding technique**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
