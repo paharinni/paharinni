@@ -6,7 +6,7 @@ Full Stack .NET Developer
 
 Collaboration is key to success, and I thrive in cross-functional teams. I am dedicated to writing clean, efficient code that adheres to industry standards and best practices. I also stay updated with the latest trends, technologies, and best practices related to software development.
 
-* 🌍  I'm based in Ukraine, Dnipro
+* 🌍  I'm based in Ukraine, Kharkiv
 * ✉️  You can contact me at [pakharenkobusiness@gmail.com](mailto:pakharenkobusiness@gmail.com)
 * 🧠  I'm learning ASP.NET & React.js
 * 🤝  I'm open to collaborating on various projects that can bring benefits to both you and me
