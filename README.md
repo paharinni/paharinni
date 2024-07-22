@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Serhii Pakharenko
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Serhii Pakharenko
 =========================================================================================================================================
 
-Full Stack .NET Developer
+Full Stack .NET Developer from Ukraine
 -------------------------
 
 Collaboration is key to success, and I thrive in cross-functional teams. Being dedicated to writing clean, efficient code that adheres to industry standards and best practices, helps me to stay updated with the latest trends, technologies, and best practices related to software development.
 
-* 🌍  I'm based in Ukraine, Kharkiv
-* ✉️  You can contact me at [pakharenkobusiness@gmail.com](mailto:pakharenkobusiness@gmail.com)
-* 🧠  I'm learning ASP.NET & React.js
-* 🤝  I'm open to collaborating on various projects that can bring benefits to both you and me
+* 🌍  I'm based in Ukraine, Dnipro
+* 📫  You can contact me at [pakharenkobusiness@gmail.com](mailto:pakharenkobusiness@gmail.com)
+* 🧠  I'm learning ASP.NET core & React.js
+* 🤝  I'm open to collaborating on various projects that can bring benefits to both you and me.
 * ⚡  Perfection is achieved when pleasure is gained.
 
 ### Skills
