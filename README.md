@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack .NET Developer
 -------------------------
 
-Collaboration is key to success, and I thrive in cross-functional teams. I am dedicated to writing clean, efficient code that adheres to industry standards and best practices. I also stay updated with the latest trends, technologies, and best practices related to software development.
+Collaboration is key to success, and I thrive in cross-functional teams. Being dedicated to writing clean, efficient code that adheres to industry standards and best practices, helps me to stay updated with the latest trends, technologies, and best practices related to software development.
 
 * 🌍  I'm based in Ukraine, Kharkiv
 * ✉️  You can contact me at [pakharenkobusiness@gmail.com](mailto:pakharenkobusiness@gmail.com)
