@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/paharinni](https://github.com/paharinni)
 
-- 💬 I'm open to **collaborating on various projects that can bring benefits to both you and me.**
+- 💬 I'm open to **opportunities that can bring benefits to both you and me.**
 
-- 📫 How to reach me **pakharenkobusiness@gmail.com**
+- 📫 How to reach me: **pakharenkobusiness@gmail.com**
 
 - ⚡ **Perfection is achieved when pleasure is gained.**
 
