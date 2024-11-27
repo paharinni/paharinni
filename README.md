@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Serhii Pakharenko</h1>
-<h3 align="center">Full Stack .NET Developer from Ukraine</h3>
+<h1 align="center">Serhii Pakharenko</h1>
+<h3 align="center">A passionate Full Stack .NET Software Engineer</h3>
+**The more steps have been taken, the farther the starting point is.**
 
 - 🌍 **I'm based in Ukraine, Dnipro**
 
-- 🌱 I’m currently learning **ASP.NET core & React.js**
+- 🌱 I’m currently learning **ASP.NET core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/paharinni](https://github.com/paharinni)
 
@@ -11,14 +12,13 @@
 
 - 📫 How to reach me: **pakharenkobusiness@gmail.com**
 
-- ⚡ **Perfection is achieved when pleasure is gained.**
+- 🗣️ I speak English, Ukrainian, Russian.
+
+You'll know more about me at the job interview.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/paharinni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paharinni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/serhii-pakharenko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/serhii-pakharenko/" height="30" width="40" /></a>
-<a href="https://instagram.com/paharinni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paharinni" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/paharinni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paharinni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
