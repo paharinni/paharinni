@@ -5,7 +5,9 @@
 
 - 📫 How to reach me **pakharenkobusiness@gmail.com**
 
-- 💬 **The more steps have been taken, the farther the starting point is.**
+- 🧠 **The more steps have been taken, the farther the starting point is.**
+
+- 💬 I speak English, Ukrainian, and Russian, you'll know more about me at the job interview.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
